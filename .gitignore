@@ -39,6 +39,8 @@ replay_*.log
 # https://support.modrinth.com/en/articles/8801191-modrinth-maven
 *.jar
 
+!gradle/wrapper/gradle-wrapper.jar
+
 # scala results
 *.tasty
 
