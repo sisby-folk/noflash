@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.sisby.noflash.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "LightningEntityRendererMixin",
+  	"ClientWorldMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
