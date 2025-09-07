@@ -4,7 +4,6 @@
   "package": "dev.sisby.noflash.mixin",
   "compatibilityLevel": "JAVA_21",
   "client": [
-    "LightningEntityRendererMixin",
   	"ClientWorldMixin"
   ],
   "injectors": {
